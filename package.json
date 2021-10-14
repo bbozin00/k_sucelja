@@ -18,6 +18,7 @@
     "eslint": "8.0.1",
     "eslint-config-next": "11.1.2",
     "husky": "^7.0.0",
+    "pretier": "0.0.1",
     "pretty-quick": "^3.1.1"
   }
 }
